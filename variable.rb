@@ -10,3 +10,10 @@ float3 = 2.3
 boolean1 = true
 boolean2 = true
 boolean3 = false
+string1 = "taco"
+string2 = "fajita"
+string3 = "burrito"
+puts string1
+puts integer2
+puts float3
+puts boolean2
