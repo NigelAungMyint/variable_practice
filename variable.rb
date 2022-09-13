@@ -1,6 +1,9 @@
 string1 = "chocolate"
 string2 = "crackers"
 string3 = "cake"
+integer1 = 1
+integer2 = 3
+integer3 = 3
 float1 = 2.1
 float2 = 2.2
 float3 = 2.3
