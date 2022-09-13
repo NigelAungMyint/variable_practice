@@ -7,3 +7,6 @@ integer3 = 3
 float1 = 2.1
 float2 = 2.2
 float3 = 2.3
+boolean1 = true
+boolean2 = true
+boolean3 = false
